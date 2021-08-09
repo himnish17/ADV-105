@@ -1,0 +1,17 @@
+body{
+    background-color: lightcyan;
+    color: crimson;
+}
+.heading{
+    width: 80%;
+    font-size: 30px;
+    background-color: lightyellow;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.Name_of_Objects, #result_object_name, #result_object_accuracy{
+    color: #a512db;
+}
